@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasLaras
-- 👀 I’m interested in coding, gaming, learning new things 
-- 🌱 I’m currently learning CSS and JavaScript
+- 👀 I’m interested in coding, gaming, discord bots, learning new things 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on project ideas!
 - 📫 How to reach me : jlsaldano@ucdavis.edu
