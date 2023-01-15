@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasLaras
 - 👀 I’m interested in coding, puzzles, languages (natural and programming ones!), and learning new things
-- 🌱 I’m currently brushing learning some languages
+- 🌱 I’m currently learning new tools and languages
 - 💞️ I’m looking to collaborate on project ideas!
 - 📫 How to reach me : jlsaldano@ucdavis.edu
