@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasLaras
 - 👀 I’m interested in coding, mind puzzles, and languages (human and programming ones!)
-- 🌱 I’m currently learning machine learning applications
-- 💞️ I’m looking for research projects!
+- 🌱 I’m currently learning machine learning applications from mathematics and computer science
+- 💞️ I’m looking for research projects and/or internship positions!
 - 📫 How to reach me : jlsaldano@ucdavis.edu
