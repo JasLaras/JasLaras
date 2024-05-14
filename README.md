@@ -2,9 +2,9 @@
 I’m Jasmine and a current Computational Cognitive Science major at UC Davis. 
 
 ## Currently learning
-- AI/ML applications from mathematics (Linear Algebra by DeepLearning.AI) and computer science (OpenAI)
+- AI/ML applications from mathematics (w/ DeepLearning.AI) and computer science (OpenAI)
 - Assembly programming w/ RISC-V and x86
-- Software Version enhancements
+- Vector Analysis and Linear Algebra
 
 ## XP
 - Languages: Python, C, C++, HTML/CSS, Javascript, SQL, Bash/Shell, R
