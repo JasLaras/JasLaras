@@ -8,7 +8,7 @@ I’m Jasmine and a current Computational Cognitive Science major at UC Davis.
 
 ## XP
 - Languages: Python, C, C++, HTML/CSS, Javascript, SQL, Bash/Shell, R
-- Frameworks: Django, Bootstrap
+- Frameworks: Django
 - Database/API: OpenAI, PostgreSQL
 - DevOps: Git, Github, Docker, VS Code, PyCharm, VirtualBox, Energia, Terminal (Command Line)
 - OS: Windows 10, Linux/UNIX (Ubuntu v20.04, v22.04)
