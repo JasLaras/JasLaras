@@ -6,7 +6,7 @@ I’m Jasmine and a current Computational Cognitive Science major at UC Davis.
 - Intro to AI
 - Differential equations
 - Site Farm dev w/ Unitrans @ UCD
-- React dev w/ KDVS & ASUCD IT @ UCD
+- React & Spinitron dev w/ KDVS & ASUCD IT @ UCD
 
 ## XP
 - Languages: Python, C, C++, HTML/CSS, Javascript, SQL, Bash/Shell, R
