@@ -1,6 +1,12 @@
 ### Hi! 
 I’m Jasmine and a current Computational Cognitive Science major at UC Davis. 
 
+### About
+- Math, art, and language (humans and computers) enthusiast
+- aspiring Renaissance woman
+- love The Cure, Lana Del Rey, Linkin Park, etc
+- dragons <3
+
 ## Currently learning
 - AI/ML applications from mathematics (w/ DeepLearning.AI) and computer science (OpenAI)
 - Intro to AI
