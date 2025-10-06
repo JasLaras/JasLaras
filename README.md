@@ -12,8 +12,6 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 - Machine Learning (ECS 171)
 - Combinatorics (MAT 145)
 - Neuroeconomics & Reinforcement Learning (CGS 107/PSC 133)
-- Site Farm dev w/ Unitrans @ UCD
-- React & Spinitron dev w/ KDVS & ASUCD IT @ UCD
 
 ## XP
 - Languages: Python, C, C++, HTML/CSS, Javascript, SQL, Bash/Shell, R
