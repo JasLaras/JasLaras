@@ -1,5 +1,5 @@
 ### Hi! 
-I’m Jasmine and a current Computational Cognitive Science major at UC Davis. 
+I’m Jasmine and a current Computational Cognitive Science + Math double major at UC Davis. 
 
 ### About
 - Math, art, and language (humans and computers) enthusiast
@@ -9,8 +9,9 @@ I’m Jasmine and a current Computational Cognitive Science major at UC Davis.
 
 ## Currently learning
 - AI/ML applications from mathematics (w/ DeepLearning.AI) and computer science (OpenAI)
-- Intro to AI
-- Differential equations
+- Machine Learning (ECS 171)
+- Combinatorics (MAT 145)
+- Neuroeconomics & Reinforcement Learning (CGS 107/PSC 133)
 - Site Farm dev w/ Unitrans @ UCD
 - React & Spinitron dev w/ KDVS & ASUCD IT @ UCD
 
