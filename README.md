@@ -18,5 +18,3 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 
 [Jasmine_Saldano_Resume.pdf](https://github.com/user-attachments/files/22960480/Jasmine_Saldano_Resume.pdf)
 
-
-<img src="https://github.com/user-attachments/assets/55564053-a4fd-4fe2-b5b4-59b50dc0f724" width="100%" alt="Jasmine Saldano Resume" />
