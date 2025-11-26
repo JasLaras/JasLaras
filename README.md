@@ -1,5 +1,5 @@
 ### Hi! 
-I’m Jasmine and a current Computational Cognitive Science + Math double major at UC Davis. 
+I’m Jasmine and a current Computational Cognitive Science + Math double major at UC Davis (graduation spring 2026). 
 
 ### About
 - Math, art, and language (humans and computers) enthusiast
