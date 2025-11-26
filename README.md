@@ -3,9 +3,8 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 
 ### About
 - Math, art, and language (humans and computers) enthusiast
-- aspiring Renaissance woman
+- aspiring renaissance woman
 - love The Cure, Lana Del Rey, Linkin Park, etc
-- dragons <3
 - favorite games: Dead By Daylight, Fortnite, Resident Evil Village, Ark Survival Evolved :)
 
 ## Currently learning
