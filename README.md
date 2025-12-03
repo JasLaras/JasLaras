@@ -17,7 +17,7 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 - Languages: Python, C/C++, SQL (PostgreSQL), JavaScript, HTML/CSS/SCSS, Bash/Shell/Linux
 - Frameworks:  Django, Git, Bitbucket, Docker, Terminal, AWS, Google Colab, Google Analytics, OpenAI API
 - DevOps/Sys Admin: ServiceNow (IT Ticketing), pfSense Firewall, JAMF/JSS, Active Directory
-- Topics: Applied Linear Algebra, Probability  + Combinatorics, Computational Linguistic Analysis (Phonetics + Syntax), Machine Learning/AI
+- Topics: Applied Linear Algebra, Probability + Combinatorics, Computational Linguistic Analysis, Machine Learning/AI
 
 ### 📫 How to reach me : jlsaldano@ucdavis.edu
 
