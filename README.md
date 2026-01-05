@@ -5,7 +5,7 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 - Math, art, and language (humans and computers) enthusiast
 - aspiring renaissance woman
 - love The Cure, Lana Del Rey, Linkin Park, etc
-- favorite games: Dead By Daylight, Fortnite, Resident Evil Village, Ark Survival Evolved :)
+- favorite games: Dead By Daylight, Fortnite, Ark Survival Evolved :)
 
 ## Currently learning
 - AI/ML applications from mathematics (w/ DeepLearning.AI) and computer science (OpenAI)
