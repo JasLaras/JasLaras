@@ -20,6 +20,6 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 
 ### 📫 How to reach me : jlsaldano@ucdavis.edu
 
-[Jasmine_Saldano_Resume.pdf]((https://github.com/user-attachments/files/25194119/autoCV.pdf)
+[Jasmine_Saldano_Resume.pdf](https://github.com/user-attachments/files/25194119/autoCV.pdf)
 
 
