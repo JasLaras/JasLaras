@@ -8,10 +8,9 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 - favorite games: Dead By Daylight, Fortnite, Ark Survival Evolved :)
 
 ## Currently learning
-- AI/ML applications from mathematics (w/ DeepLearning.AI) and computer science (OpenAI)
-- Machine Learning (ECS 171)
-- Combinatorics (MAT 145)
-- Neuroeconomics & Reinforcement Learning (CGS 107/PSC 133)
+- Numerical Analysis (Error analysis, approximation, interpolation, numerical differentiation and integration)
+- Real Analysis II
+- History of Mathematics :)
 
 ## XP
 - Languages: Python, C/C++, SQL (PostgreSQL), JavaScript, HTML/CSS/SCSS, Bash/Shell/Linux
@@ -21,5 +20,6 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 
 ### 📫 How to reach me : jlsaldano@ucdavis.edu
 
-[Jasmine_Saldano_Resume.pdf](https://github.com/user-attachments/files/22960480/Jasmine_Saldano_Resume.pdf)
+[Jasmine_Saldano_Resume.pdf]((https://github.com/user-attachments/files/25194119/autoCV.pdf)
+
 
