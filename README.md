@@ -9,7 +9,7 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 
 ## Currently learning
 - Numerical Analysis (Error analysis, approximation, interpolation, numerical differentiation and integration)
-- Real Analysis II
+- Real Analysis II (Topology, differentiable functions, sequences and series, Riemann integrals)
 - History of Mathematics :)
 
 ## XP
