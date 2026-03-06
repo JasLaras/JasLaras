@@ -1,5 +1,5 @@
 ### Hi! 
-I’m Jasmine and a current Computational Cognitive Science + Math double major at UC Davis (graduating spring 2026). 
+I’m Jasmine and a current Computational Cognitive Science + Math double major at UC Davis projected to graduate in spring 2026. 
 
 ### About
 - Math, art, and language (humans and computers) enthusiast
@@ -14,7 +14,7 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 
 ## XP
 - Languages: Python, C/C++, SQL (PostgreSQL), JavaScript, HTML/CSS, Bash/Shell, Linux (Ubuntu)
-- Frameworks:  Django, Git, Docker, AWS, Google Colab, Google Analytics, APIs, Bitbucket
+- Frameworks:  Django, React.js, Docker, AWS, Google Colab, Google Analytics, APIs
 - Systems/IT: Active Directory, JAMF, pfSense Firewall, ServiceNow, Asset Management (SnipeIT)
 - Topics: Applied Linear Algebra, Modern Algebra, Probability, Combinatorics, Machine Learning/AI, Computational Linguistic Analysis, Cognitive Neuroscience
 
