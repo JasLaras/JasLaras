@@ -2,10 +2,9 @@
 I’m Jasmine and a current Computational Cognitive Science + Math double major at UC Davis projected to graduate in spring 2026. 
 
 ### About
+- Favorite classes: Artificial Intelligence (ECS 170), Combinatorics (MAT 145), Reinforcement Learning & Decision Making (CGS 107/PSC 133)
 - Math, art, and language (humans and computers) enthusiast
-- aspiring renaissance woman
-- love The Cure, Lana Del Rey, Linkin Park, etc
-- favorite games: Fortnite, Ark Survival Evolved, any games with friends :)
+- Favorite games: Fortnite, Ark Survival Evolved, any with friends :)
 
 ## Currently learning
 - Euclidean Geometry
