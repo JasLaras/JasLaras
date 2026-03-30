@@ -10,7 +10,7 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 ## Currently learning
 - Euclidean Geometry
 - Real Analysis III
-- Cognitive Development
+- Cognitive Development II
 
 ## XP
 - Languages: Python, C/C++, SQL (PostgreSQL), JavaScript, HTML/CSS, Bash/Shell, Linux (Ubuntu)
