@@ -9,8 +9,8 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 
 ## Currently learning
 - Euclidean Geometry
-- Real Analysis III (Topology, Differentiation, Lebesgue Integration, Measure Theory)
-- Cognitive Development II
+- Real Analysis III (Metric Spaces, Topology, Multi-Variable Calculus, Measure Theory)
+- Cognitive Development II (Learning, Plasticity, Attention, Memory, etc)
 
 ## XP
 - Languages: Python, C/C++, SQL (PostgreSQL), JavaScript, HTML/CSS, Bash/Shell, Linux (Ubuntu)
