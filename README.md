@@ -5,12 +5,12 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 - Math, art, and language (humans and computers) enthusiast
 - aspiring renaissance woman
 - love The Cure, Lana Del Rey, Linkin Park, etc
-- favorite games: Dead By Daylight, Fortnite, Ark Survival Evolved :)
+- favorite games: Fortnite, Ark Survival Evolved, any games with friends :)
 
 ## Currently learning
-- Numerical Analysis (Error analysis, approximation, interpolation, numerical differentiation and integration)
-- Real Analysis II (Topology, differentiable functions, sequences and series, Riemann integrals)
-- History of Mathematics :)
+- Euclidean Geometry
+- Real Analysis III
+- Cognitive Development
 
 ## XP
 - Languages: Python, C/C++, SQL (PostgreSQL), JavaScript, HTML/CSS, Bash/Shell, Linux (Ubuntu)
