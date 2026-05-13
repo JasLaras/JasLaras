@@ -22,4 +22,16 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 [Jasmine_Saldano_Resume_2026.pdf](https://github.com/user-attachments/files/26649983/Jasmine_Saldano_Resume_2026.pdf)
 
 
+   about me
+   mexican-american girl from san diego, california
+   computer science @ stanford university
+   tech/lifestyle/fashion content creator
 
+   fav repos
+name	description
+code-with-coco	an accompaniment to my video series where i build random little tools, and show how anyone can too
+   kudos
+feel free to copy, fork, and share any or my repos. if you make a video with my code, tag me! and if you remix the code in your own project, a quick credit in the file is appreciated.
+
+   tiktok: @cocopuffffffffs
+   instagram: @cocohdzz
