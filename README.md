@@ -4,7 +4,7 @@ I’m Jasmine and a current Computational Cognitive Science + Math double major 
 ### About
 - Favorite classes: Artificial Intelligence (ECS 170), Combinatorics (MAT 145), Reinforcement Learning & Decision Making (CGS 107)
 - Math, art, and language (humans and computers) enthusiast
-- Favorite games: Fortnite, Ark Survival Evolved, any with friends :)
+- Favorite games: Fortnite, Dead By Daylight, Ark Survival Evolved, any with friends :)
 
 ## Currently learning
 - Euclidean Geometry
