@@ -1,5 +1,5 @@
 ### Hi! 
-I’m Jasmine, a UC Davis graduate with a B.S. in Cognitive Science and a B.S. in Mathematics.
+I’m Jasmine, a UC Davis graduate with a B.S. in Cognitive Science and Mathematics.
 
 ### About
 - Favorite classes: Artificial Intelligence (ECS 170), Combinatorics (MAT 145), Reinforcement Learning & Decision Making (CGS 107)
