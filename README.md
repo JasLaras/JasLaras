@@ -8,14 +8,10 @@ I’m Jasmine, a UC Davis graduate with a B.S. in Cognitive Science (Computation
 
 ## XP
 - **Languages:** Python, C/C++, SQL (PostgreSQL), JavaScript, HTML/CSS, Bash/Shell
-- **Web & Frameworks:** Django, Flask, React.js, REST APIs
-- **Infrastructure & DevOps:** Linux Administration, Docker, AWS, CI/CD, Git, Scripting
-- **Security & Identity:** IAM, Active Directory, Access Control, Endpoint Security (Intune, JAMF)
-- **Networking:** Firewalls (pfSense, Fortinet), VLANs, IP, DHCP
-
+- **DevOps:** Django, Flask, React.js, REST APIs, AWS, CI/CD
+- **Security & Networking:** Active Directory, Firewalls (pfSense, Fortinet), Access Control, Endpoint Security (Intune, JAMF)
 
 - **Scientific Computing:** Passagemath/SageMath, Linear Programming, Graph Algorithms, Combinatorial Optimization
 - **Math & ML:** Applied Linear Algebra, Probability, Combinatorics, Modern Algebra, Number Theory, Machine Learning
 
-See my LinkedIn for how I've applied these skills!
 ### 📫 How to reach me : jlsaldano@ucdavis.edu
