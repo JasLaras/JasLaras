@@ -1,5 +1,5 @@
 ### Hi! 
-I’m Jasmine, a UC Davis graduate with a B.S. in Cognitive Science (Computational) and Mathematics (Pure). I've worked as a IT systems + software engineer for 4.5 years supporting university systems, mainly UC Davis Student Affairs/ASUCD and Unitrans operations, with background experience in mathematics research involving linear programming and graph algorithms! 
+I’m Jasmine, a UC Davis graduate with a B.S. in Cognitive Science (Computational) and Mathematics (Pure). I've worked as a IT systems + software engineer for 4.5 years supporting university systems, mainly UC Davis Student Affairs/ASUCD and Unitrans operations, with background experience in mathematics research involving linear programming and graph algorithms.
 
 ### About
 - Favorite classes: Artificial Intelligence (ECS 170), Combinatorics (MAT 145), Reinforcement Learning & Decision Making (CGS 107)
